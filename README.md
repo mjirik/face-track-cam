@@ -10,3 +10,4 @@ Author: Martin Volavka
 
 
 
+[![Video webcam tracking](https://img.youtube.com/vi/qTBb8LZght8/0.jpg)](https://www.youtube.com/watch?v=qTBb8LZght8)
