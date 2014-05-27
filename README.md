@@ -6,5 +6,6 @@ Face tracking camera with arduino
 
 Martin Volavka
 
-http://youtu.be/euMbNVPRXpU
+[![Video webcam tracking](https://img.youtube.com/vi/euMbNVPRXpU/0.jpg)(http://youtu.be/euMbNVPRXpU)
+
 
